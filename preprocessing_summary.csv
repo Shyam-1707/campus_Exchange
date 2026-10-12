@@ -1,0 +1,13 @@
+Technique,Folder,Image Count
+grape_resized,data/grape_resized,4062
+grape_grayscale,data/grape_grayscale,4062
+grape_filtered,data/grape_filtered,4062
+grape_equalized,data/grape_equalized,4062
+grape_sharpened,data/grape_sharpened,4062
+grape_edges,data/grape_edges,4062
+grape_negative,data/grape_negative,4062
+grape_blended,data/grape_blended,4062
+grape_morphology,data/grape_morphology,4062
+grape_segmented,data/grape_segmented,4062
+grape_normalized,data/grape_normalized,4062
+grape_augmented,data/grape_augmented,16248
